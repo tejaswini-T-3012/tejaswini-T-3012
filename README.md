@@ -1,4 +1,4 @@
-
+<h1 align="center">Tejaswini T</h1>
 
 **Hello!** This is Tejaswini T, Studying **Bachelor of Computer Science and Engineering with Artificial Intelligence** in Sathyabama University (2020-2024)
 
